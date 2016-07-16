@@ -1,5 +1,5 @@
 # http://www.pythonchallenge.com/pc/hex/bonus.html
-__author__ = 'z-Wind'
+__author__ = 'chihchieh.sun'
 
 import string
 

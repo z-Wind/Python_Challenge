@@ -1,5 +1,5 @@
 #http://www.pythonchallenge.com/pc/def/ocr.html
-__author__ = 'z-Wind'
+__author__ = 'chihchieh.sun'
 
 s = ''.join([line.rstrip() for line in open('level2_ocr.txt')])
 

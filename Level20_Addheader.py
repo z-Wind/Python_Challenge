@@ -1,5 +1,5 @@
 # http://www.pythonchallenge.com/pc/hex/idiot2.html
-__author__ = 'z-Wind'
+__author__ = 'chihchieh.sun'
 
 import urllib.request
 import zipfile

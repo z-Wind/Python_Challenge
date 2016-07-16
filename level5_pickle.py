@@ -1,5 +1,5 @@
 #http://www.pythonchallenge.com/pc/def/peak.html
-__author__ = 'z-Wind'
+__author__ = 'chihchieh.sun'
 
 # -*- coding: utf-8 -*-
 

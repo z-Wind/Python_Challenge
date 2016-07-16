@@ -1,5 +1,5 @@
 # http://www.pythonchallenge.com/pc/def/linkedlist.php
-__author__ = 'z-Wind'
+__author__ = 'chihchieh.sun'
 
 import urllib.request
 import urllib.error

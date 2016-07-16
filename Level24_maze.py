@@ -1,5 +1,5 @@
 # http://www.pythonchallenge.com/pc/hex/ambiguity.html
-__author__ = 'z-Wind'
+__author__ = 'chihchieh.sun'
 
 import urllib.request
 from io import BytesIO

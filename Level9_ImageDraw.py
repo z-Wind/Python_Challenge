@@ -1,5 +1,5 @@
 #http://www.pythonchallenge.com/pc/return/good.html
-__author__ = 'z-Wind'
+__author__ = 'chihchieh.sun'
 
 from PIL import Image, ImageDraw
 

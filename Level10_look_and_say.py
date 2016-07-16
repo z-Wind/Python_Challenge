@@ -1,5 +1,5 @@
 #http://www.pythonchallenge.com/pcc/return/bull.html => huge, file
-__author__ = 'z-Wind'
+__author__ = 'chihchieh.sun'
 
 import itertools
 import re

@@ -1,5 +1,5 @@
 # http://www.pythonchallenge.com/pc/hex/bin.html:butter:fly
-__author__ = 'z-Wind'
+__author__ = 'chihchieh.sun'
 
 import re
 import urllib.request
